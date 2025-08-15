@@ -1,4 +1,6 @@
-## Higuchi5
+# 👩🏻‍💻 樋口 | Higuchi5 
+
+**`Estudando web-developer`** E **`Software-developer`**
 
 <p align="left">
   </a> 
