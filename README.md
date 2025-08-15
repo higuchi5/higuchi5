@@ -58,11 +58,11 @@ Me chamo Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das industria, es
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+/><br>
 
 ### 📊 Estatísticas
 
-p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -70,7 +70,7 @@ p>
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+  
 <img 
       align="left" 
       alt="GitHub Stats" 
