@@ -11,7 +11,7 @@ Me chamo Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das industria, es
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCfEbs-VtXW2RwHIAis3ujng?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
-     <a href="https://https://www.youtube.com/@Tadashi-09h?sub_confirmation=1">
+     <a href="https://https://www.youtube.com/@Tadashi-09h">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
