@@ -5,6 +5,23 @@
 Me chamo Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das industria, estou estudando para entrar na Etec. Atualmente estou cursando Desenvolvimento de sistema na microcamp, eu amo tecnologia.
 
 <p align="left">
+   <a href="https://https://www.youtube.com/@Tadashi-09h?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCfEbs-VtXW2RwHIAis3ujng?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+     <a href="https://https://www.youtube.com/@Tadashi-09h?sub_confirmation=1">
+        <img 
+            alt="youtube views" 
+            title="Vizualizações no YouTube" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCfEbs-VtXW2RwHIAis3ujng?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+        />
+        <a href="https://www.instagram.com/murilot.h/?sub_confirmation=1">
+        <img 
+            alt="instagram" 
+            title="instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   </a> 
     <a href="https://github.com/Higuchi5?tab=repositories&sort=stargazers">
         <img 
@@ -20,8 +37,6 @@ Me chamo Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das industria, es
             src="https://custom-icon-badges.demolab.com/github/followers/Higuchi5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-     <a href="https://www.instagram.com/murilot.h/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</p>
 
 ---
 
