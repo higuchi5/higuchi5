@@ -2,7 +2,10 @@
 
 **`Estudando web-developer`** E **`Software-developer`**
 
-Me chamo Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das industria, eu sei falar: Português, ingles e estou aprendendo japonês junto com isso estou estudando para entrar na Etec. Atualmente estou cursando Desenvolvimento de sistema na microcamp, e eu amo tecnologia.
+Meu nome é Murilo Tadashi Higuchi, tenho 15 anos e sou de Jardim das Indústrias.
+Sou fluente em português e inglês, e atualmente estou me dedicando ao aprendizado de japonês.
+Estou estudando para ingressar na ETEC e, paralelamente, curso Desenvolvimento de Sistemas na Microcamp.
+Tenho grande paixão por tecnologia e busco constantemente aprender e me aprimorar nessa área.
 
 <p align="left">
         <a href="https://www.instagram.com/murilot.h/?sub_confirmation=1">
