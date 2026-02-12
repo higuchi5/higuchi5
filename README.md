@@ -67,7 +67,5 @@ Tenho grande interesse pela área de tecnologia, buscando constantemente aprimor
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higuchi5&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higuchi5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
