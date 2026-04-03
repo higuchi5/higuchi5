@@ -24,7 +24,14 @@
 
 <td style="padding-left:15px;">
 
-<img src="https://i.imgur.com/CEz7EEO.png" width="300" style="border-radius:10px;" />
+<img 
+  src="https://i.imgur.com/CEz7EEO.jpeg" 
+  width="200"
+  style="
+    border:2px solid #A855F7;
+    border-radius:50%;
+  "
+/>
 
 </td>
 </tr>
