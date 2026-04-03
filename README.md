@@ -24,7 +24,7 @@
 
 <td style="padding-left:15px;">
 
-<img src="SUA-IMAGEM-AQUI" width="150" style="border-radius:10px;" />
+<img src="https://imgur.com/a/tFEfi0j.png" width="150" style="border-radius:10px;" />
 
 </td>
 </tr>
