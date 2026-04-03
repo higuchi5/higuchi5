@@ -31,7 +31,7 @@
 <td style="padding-left:15px;">
 
 <img 
-  src="https://i.imgur.com/CEz7EEO.jpeg" 
+  src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" 
   width="200"
   style="
     border:2px solid #A855F7;
