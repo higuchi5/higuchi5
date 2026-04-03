@@ -1,75 +1,30 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--BANNER-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=higuchi5&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
-
-<br/>
-
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                                            █
-█     Welcome to Murilo Tadashi's GitHub     █
-█                   < / >                   █
-█                                            █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A0A0B0&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
+<!--TYPING ANIMATION-->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+solutions+%F0%9F%9A%80;Clean+code+%7C+Bold+ideas+%7C+Real+impact;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     SOCIAL LINKS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=A0A0B0)](https://linkedin.com/in/murilo-higuchi)
-[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=A0A0B0)](https://github.com/murilo-higuchi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=A0A0B0)](https://murilo-higuchi.dev)
-[![Email](https://img.shields.io/badge/Email-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=A0A0B0)](mailto:murilo@email.com)
-
-<br/>
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────%20About%20Me%20──────────────────────-%230d0d0d?style=for-the-badge" />
-
-</div>
-
-<br/>
-
-<table align="center" border="0">
+<!--ABOUT ME-->
+<table>
 <tr>
-<td width="55%" valign="top">
+<td>
 
-```yaml
-name:     Murilo Tadashi Higuchi
-role:     Software Developer
-focus:    Backend & Systems Engineering
-location: Brazil 🇧🇷
-status:   Open to new challenges
+```typescript
+const higuchi5 = {
+  location   : "Brasil 🇧🇷",
+  role       : "Software Developer",
+  focus      : ["Back-end", "APIs", "Cloud"],
+  learning   : ["System Design", "DevOps"],
+  available  : true,
+  contact    : "Open to opportunities 🚀"
+};
 ```
-
-<br/>
-
-Hi there 👾 — I'm **Murilo Tadashi Higuchi**, a software developer passionate about building elegant, efficient, and well-structured systems. I enjoy turning complex problems into clean, scalable solutions.
-
-Currently deepening my expertise in **software engineering**, exploring everything from **backend architecture** to **algorithms and data structures**. Always looking for projects that challenge me to think differently.
-
-- 🔭 &nbsp; Working on personal projects and open source contributions
-- 📚 &nbsp; Studying software engineering fundamentals & system design
-- ⚡ &nbsp; Interested in performance, clean code, and developer experience
-- 🎯 &nbsp; Goal: Build software that actually makes a difference
-
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 8px;" alt="coding gif"/>
 
 </td>
 </tr>
@@ -77,97 +32,112 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TECHNOLOGIES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/────────────────────%20Technologies%20─────────────────────-%230d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-%230d0d0d.svg?style=flat-square&logo=python&logoColor=A0A0B0)
-![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=A0A0B0)
-![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d.svg?style=flat-square&logo=typescript&logoColor=A0A0B0)
-![Java](https://img.shields.io/badge/Java-%230d0d0d.svg?style=flat-square&logo=openjdk&logoColor=A0A0B0)
-![C](https://img.shields.io/badge/C-%230d0d0d.svg?style=flat-square&logo=c&logoColor=A0A0B0)
-![SQL](https://img.shields.io/badge/SQL-%230d0d0d.svg?style=flat-square&logo=postgresql&logoColor=A0A0B0)
-
-<br/>
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-%230d0d0d.svg?style=flat-square&logo=html5&logoColor=A0A0B0)
-![CSS3](https://img.shields.io/badge/CSS3-%230d0d0d.svg?style=flat-square&logo=css3&logoColor=A0A0B0)
-![React](https://img.shields.io/badge/React-%230d0d0d.svg?style=flat-square&logo=react&logoColor=A0A0B0)
-![Node.js](https://img.shields.io/badge/Node.js-%230d0d0d.svg?style=flat-square&logo=node.js&logoColor=A0A0B0)
-
-<br/>
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-%230d0d0d.svg?style=flat-square&logo=git&logoColor=A0A0B0)
-![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=flat-square&logo=github&logoColor=A0A0B0)
-![Linux](https://img.shields.io/badge/Linux-%230d0d0d.svg?style=flat-square&logo=linux&logoColor=A0A0B0)
-![Docker](https://img.shields.io/badge/Docker-%230d0d0d.svg?style=flat-square&logo=docker&logoColor=A0A0B0)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230d0d0d.svg?style=flat-square&logo=visualstudiocode&logoColor=A0A0B0)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230d0d0d.svg?style=flat-square&logo=postgresql&logoColor=A0A0B0)
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/──────────────────────────%20Stats%20──────────────────────────-%230d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<a href="https://github.com/murilo-higuchi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=murilo-higuchi&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
+<!--SOCIAL LINKS-->
+<a href="https://linkedin.com/in/higuchi5">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="mailto:higuchi5@email.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/higuchi5">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+---
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<a href="https://github.com/murilo-higuchi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-higuchi&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=higuchi5&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117" height="180" />
 
 <br/><br/>
 
-<a href="https://github.com/murilo-higuchi">
-  <img width="700" src="https://streak-stats.demolab.com?user=murilo-higuchi&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" />
-</a>
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--               CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/────────────────────%20Activity%20──────────────────────-%230d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=murilo-higuchi&bg_color=0d0d0d&color=a0a0b0&line=555566&point=a0a0b0&area=true&area_color=1a1a2e&hide_border=false&border_color=1a1a2e&custom_title=Contribution%20Graph" />
-
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmurilo-higuchi%2Fvisits&query=value&label=profile%20views&style=flat-square&color=0d0d0d&labelColor=1a1a2e&logo=github&logoColor=a0a0b0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=higuchi5&theme=github_dark&utcOffset=-3" height="160" />
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║   "First, solve the problem. Then, write the code."  ║
-╚══════════════════════════════════════════════════════╝
-```
+<!--ACTIVITY GRAPH-->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=higuchi5&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="96%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
+<br/>
+
+---
+
+## 🛠️ Tech Stack
+
+<br/>
+
+### 🔧 Back-end
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+<br/><br/>
+
+### 🎨 Front-end
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<br/><br/>
+
+### 🛠️ Ferramentas
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+
+<br/><br/>
+
+### 🌐 Plataformas & Cloud
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<br/>
+
+---
+
+## 🏆 Achievements
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=higuchi5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+<br/>
+
+---
+
+<!--FOOTER-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" />
+
+<img src="https://komarev.com/ghpvc/?username=higuchi5&label=Profile+Views&color=0a192f&style=for-the-badge&color=1f6feb" />
 
 </div>
