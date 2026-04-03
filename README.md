@@ -1,143 +1,190 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                  GITHUB PROFILE — higuchi5                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!--BANNER-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=200&section=header&text=higuchi5&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%" />
+<!-- ╔══════════════ BANNER ══════════════╗ -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2235,100:0d1117&height=220&section=header&text=higuchi5&fontSize=72&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=welcome%20to%20my%20github%20%20%2F%2F%20%3C%2F%3E&descAlignY=58&descSize=16&descColor=8b949e"
+  width="100%"
+/>
 
-<!--TYPING ANIMATION-->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+scalable+solutions+%F0%9F%9A%80;Clean+code+%7C+Bold+ideas+%7C+Real+impact;Always+learning%2C+always+shipping+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<!-- ╔══════════════ AVATAR ══════════════╗ -->
+<br/>
+<img
+  src="https://avatars.githubusercontent.com/u/higuchi5"
+  width="120"
+  height="120"
+  style="border-radius:50%;"
+/>
+
+<br/><br/>
+
+<!-- ╔══════════════ NOME ══════════════╗ -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=higuchi5;Developer+%26+Builder;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<!-- ╔══════════════ BIO ══════════════╗ -->
+<p>
+  <em>Desenvolvedor apaixonado por tecnologia · Open Source · Evolução constante</em>
+</p>
 
 <br/>
 
-<!--ABOUT ME-->
+<!-- ╔══════════════ BADGES DE STATUS ══════════════╗ -->
+<p>
+  <img src="https://img.shields.io/badge/🚀%20Dev-Ativo-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/💻%20Projetos-Em%20andamento-161b22?style=flat-square&labelColor=0d1117&color=238636" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/📈%20Status-Evoluindo-161b22?style=flat-square&labelColor=0d1117&color=a371f7" />
+</p>
+
+<br/>
+
+---
+
+<!-- ╔══════════════ LINKS / REDES ══════════════╗ -->
+
+<p>
+  <a href="https://linkedin.com/in/higuchi5">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/higuchi5">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117" />
+  </a>
+  &nbsp;
+  <a href="mailto:higuchi5@email.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ╔══════════════ SOBRE MIM ══════════════╗ -->
+
+### 🧑‍💻 &nbsp;Sobre mim
+
 <table>
-<tr>
-<td>
-
-```typescript
-const higuchi5 = {
-  location   : "Brasil 🇧🇷",
-  role       : "Software Developer",
-  focus      : ["Back-end", "APIs", "Cloud"],
-  learning   : ["System Design", "DevOps"],
-  available  : true,
-  contact    : "Open to opportunities 🚀"
-};
-```
-
-</td>
-</tr>
+  <tr>
+    <td align="left" width="60%">
+      <br/>
+      &nbsp;&nbsp;🎓 &nbsp;Estudante de Sistemas / Engenharia<br/>
+      &nbsp;&nbsp;💡 &nbsp;Apaixonado por resolver problemas reais<br/>
+      &nbsp;&nbsp;🛠️ &nbsp;Construindo projetos pessoais e open source<br/>
+      &nbsp;&nbsp;📚 &nbsp;Sempre aprendendo algo novo<br/>
+      &nbsp;&nbsp;🌎 &nbsp;Brasil<br/>
+      <br/>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="100%" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<!--SOCIAL LINKS-->
-<a href="https://linkedin.com/in/higuchi5">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:higuchi5@email.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/higuchi5">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
 ---
 
-## 📊 GitHub Stats
+<!-- ╔══════════════ TECNOLOGIAS ══════════════╗ -->
 
-<br/>
+### 🛠️ &nbsp;Tecnologias & Ferramentas
 
-<img src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=higuchi5&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117" height="180" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="160" />
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=higuchi5&theme=github_dark&utcOffset=-3" height="160" />
-
-<br/>
-
-<!--ACTIVITY GRAPH-->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=higuchi5&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true" width="96%" />
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791" />
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+</p>
 
 <br/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ╔══════════════ ESTATÍSTICAS ══════════════╗ -->
 
-<br/>
+### 📊 &nbsp;Estatísticas
 
-### 🔧 Back-end
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-<br/><br/>
-
-### 🎨 Front-end
-
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<br/><br/>
-
-### 🛠️ Ferramentas
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-
-<br/><br/>
-
-### 🌐 Plataformas & Cloud
-
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"
+        height="170"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=higuchi5&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=a371f7&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"
+        height="170"
+      />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-## 🏆 Achievements
+<!-- ╔══════════════ GRÁFICO DE CONTRIBUIÇÕES ══════════════╗ -->
 
-<br/>
+### 📈 &nbsp;Gráfico de Contribuições
 
-<img src="https://github-profile-trophy.vercel.app/?username=higuchi5&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=higuchi5&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=0d2235&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20-%20higuchi5"
+  width="100%"
+/>
 
 <br/>
 
 ---
 
-<!--FOOTER-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%" />
+<!-- ╔══════════════ TROFÉUS ══════════════╗ -->
 
-<img src="https://komarev.com/ghpvc/?username=higuchi5&label=Profile+Views&color=0a192f&style=for-the-badge&color=1f6feb" />
+### 🏆 &nbsp;Troféus
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=higuchi5&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+  width="100%"
+/>
+
+<br/>
+
+---
+
+<!-- ╔══════════════ VISITANTES ══════════════╗ -->
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=higuchi5&label=Visitantes&color=58a6ff&style=flat-square&labelColor=0d1117" />
+</p>
+
+<!-- ╔══════════════ FOOTER BANNER ══════════════╗ -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2235,100:0d1117&height=120&section=footer"
+  width="100%"
+/>
 
 </div>
