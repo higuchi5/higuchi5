@@ -35,10 +35,12 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10" width="70%"/>
-
-
-
+<tr>
+    <td colspan="3" align="center">
+      <img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
