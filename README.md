@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:a020f0=樋口正%20|%20Tadashi%20higuchi&fontColor=00000&reversal=true&fontSize=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,100:a020f0=&樋口正%20|%20Tadashi%20higuchi&fontColor=00000&reversal=true&fontSize=50&animation=fadeIn">
 </div>
 
 <div align="center">
