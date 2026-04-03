@@ -3,6 +3,26 @@
 </div>
 
 <div align="center">
+  <table>
+<tr>
+<td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
+
+<h3>💜 Sobre mim</h3>
+
+<p>
+Sou estudante de Desenvolvimento de Sistemas, iniciante na área e no começo da minha carreira.<br>
+Estou aprendendo HTML, CSS e JavaScript e criando projetos para evoluir.
+</p>
+
+</td>
+
+<td style="padding-left:15px;">
+
+<img src="SUA-IMAGEM-AQUI" width="150" style="border-radius:10px;" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
