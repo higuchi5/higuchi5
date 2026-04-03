@@ -126,19 +126,21 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 
 <br/><br/>
 
-<a href="https://github.com/higuchi5">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/higuchi5">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/higuchi5">
-  <img width="700" src="https://streak-stats.demolab.com?user=higuchi5&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" />
-</a>
+<table border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td align="center" valign="top">
+  <img src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&count_private=true&hide_border=false&rank_icon=github" height="170" />
+</td>
+<td align="center" valign="top">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" height="170" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=8" height="155" />
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
