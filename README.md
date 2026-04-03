@@ -18,8 +18,7 @@
 <div align="center">
 
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/>
-  <img  width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
-  <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=170"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
 
   <br><br>
 
@@ -27,14 +26,9 @@
 
 <div align="center">
 
-<tr>
-    <td colspan="3" align="center">
-      <img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
-    </td>
-  </tr>
-</table>
-
-</div>
+    
+  <img width="700" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=170"/>
 
 <div align="center" style="display: inline_block"><br>
 
