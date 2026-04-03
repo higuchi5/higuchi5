@@ -28,8 +28,6 @@
   </tr>
 </table>
 
-  <br><br>
-
 </div>
 
 <div align="center">
