@@ -25,7 +25,7 @@
 <div align="center">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=400" width="45%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550" width="45%"/>
 
 
 
