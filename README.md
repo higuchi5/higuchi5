@@ -3,23 +3,9 @@
 </div>
 
 <div align="center">
-  
-  <div style="background-color:#1e1e2f; padding:15px; border-radius:10px; border:1px solid #A855F7;">
-
-<h3>💜 Sobre mim</h3>
-
-<p>
-Sou estudante de Desenvolvimento de Sistemas, iniciante na área e no começo da minha carreira.  
-Estou aprendendo HTML, CSS e JavaScript e criando projetos para evoluir minhas habilidades.
-</p>
-
 </div>
-  <samp>
-      <br>
-      Hi there! I'm <b>Murilo tadashi</b> <br>
-  </samp>
-</div>
-<br >
+
+<div align="center">
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=900&color=5B21B6&center=true&width=435&lines=Bem+vindo!;Estudando+Desenvolvimento+de+sistema;Iniciante+e+no+come%C3%A7o+da+carreira;Evoluindo+em+%E2%80%A2HTML+%E2%80%A2CSS+%E2%80%A2Java+Script" alt="Typing SVG" />
