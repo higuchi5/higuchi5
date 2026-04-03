@@ -10,9 +10,11 @@
 <td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
 
 <p>
+  
 Olá meu nome é Murilo Tadashi higuchi, tenho 16 anos e estudo Desenvolvimento de Sistemas, atualmente no início da minha jornada na programação.  
 Tenho foco em aprender e evoluir todos os dias, construindo projetos práticos para desenvolver minhas habilidades. 
 Estou em busca da minha primeira oportunidade na área de tecnologia.
+
 </p>
 
 </td>
