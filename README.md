@@ -4,6 +4,7 @@
 
 <div align="center">
   <h1>Sobre mim</h1>
+  <br>
   <table>
 <tr>
 <td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
