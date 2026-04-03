@@ -33,9 +33,9 @@
 
 <div align="center">
 
-  <img width="330" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/>
-  <img width="330" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
-  <img width="330" src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=170"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/>
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=170"/>
 
   <br><br>
 
