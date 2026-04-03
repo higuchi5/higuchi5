@@ -4,7 +4,7 @@
 <!--                        HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/higuchi5/higuchi5/main/Banner.jpg" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/higuchi5/higuchi5/main/Banner.jpg" width="100%" style="border-radius: 16px; max-height: 300px; object-fit: cover;" alt="banner"/>
 
 <br/>
 
@@ -64,7 +64,7 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/1200x/47/ea/2c/47ea2c53c06bfd96243c2f3631453d58.jpg" width="240" style="border-radius: 8px;" alt="profile image"/>
+<img src="https://i.pinimg.com/1200x/47/ea/2c/47ea2c53c06bfd96243c2f3631453d58.jpg" width="240" style="border-radius: 16px;" alt="profile image"/>
 
 </td>
 </tr>
