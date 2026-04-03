@@ -12,11 +12,11 @@
 <p>
 
   <h1>Murilo Tadashi Higuchi</h1>
-- 🎓 Estudante de Desenvolvimento de Sistemas  
-- 💻 Iniciante em programação  
-- 🚀 Criando meus primeiros projetos  
-- 📈 Sempre aprendendo e evoluindo
-- 🎯 Em busca da primeira oportunidade na área tech   
+- 🎓 Estudante de Desenvolvimento de Sistemas <br>
+- 💻 Iniciante em programação  <br>
+- 🚀 Criando meus primeiros projetos <br> 
+- 📈 Sempre aprendendo e evoluindo <br>
+- 🎯 Em busca da primeira oportunidade na área tech <br>
 
 </p>
 
