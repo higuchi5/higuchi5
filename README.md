@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
+  <h1>Sobre mim</h1>
   <table>
 <tr>
 <td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
-
-<h3>💜 Sobre mim</h3>
 
 <p>
 Sou estudante de Desenvolvimento de Sistemas, iniciante na área e no começo da minha carreira.<br>
