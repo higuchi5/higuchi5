@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CristinyON&theme=github_dark" width="56%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=aura" width="56%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CristinyON&theme=github-dark&hide_border=true&border_radius=7" width="40%" />
 
 </div>
