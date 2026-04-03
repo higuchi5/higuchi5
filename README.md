@@ -25,6 +25,10 @@
     <td>
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
   </td>
+    <td align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
+  </td>
+    <td>
   </tr>
 </table>
 
