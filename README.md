@@ -19,7 +19,6 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristinyON&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristinyON&theme=github_dark" width="32%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CristinyON&theme=github_dark&utcOffset=8" width="32%" />
 
 </div>
 
