@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" height="145" src="https://imgur.com/gallery/buraco-negro-gMlDnL3#glqGDoK.png"/>
+  <img src='https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Welcome&reversal=true'>
 </div>
 
 <div align="center">
