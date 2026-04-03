@@ -27,8 +27,6 @@
   </td>
   </tr>
 </table>
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/>
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
 
   <br><br>
 
