@@ -4,17 +4,13 @@
 <!--                        HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ⚠️ SUBSTITUIR src pela URL raw da sua imagem após subir no GitHub -->
-<!-- Exemplo: https://raw.githubusercontent.com/higuchi5/higuchi5/main/banner.jpg -->
-<img src="COLE_AQUI_A_URL_RAW_DA_SUA_IMAGEM" width="100%" style="border-radius:10px" alt="banner"/>
+<img src="https://raw.githubusercontent.com/higuchi5/higuchi5/main/Banner.jpg" width="100%" alt="banner"/>
 
-<!--
-  ENQUANTO NÃO TIVER A IMAGEM SUBIDA, USE ESTE BANNER PROVISÓRIO
-  (apague as 2 linhas acima e descomente a linha abaixo):
--->
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=220&text=Welcome%20to%20Murilo%20Tadashi's%20GitHub&fontSize=28&fontColor=a0a0b0&fontAlign=50&fontAlignY=45&desc=%3C%20/%20%3E&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/> -->
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=220&text=Welcome%20to%20Murilo%20Tadashi's%20GitHub&fontSize=28&fontColor=a0a0b0&fontAlign=50&fontAlignY=45&desc=%3C%20/%20%3E&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
+```
+  Welcome to Murilo Tadashi's GitHub   < / >
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A0A0B0&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
 
