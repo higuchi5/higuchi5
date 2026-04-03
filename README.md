@@ -12,7 +12,7 @@
 <br >
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=FiraCode&weight=300&duration=4000&pause=900&color=5B21B6&center=true&width=435&lines=Bem+vindo!;Sou+estudante+de+Desenvolvimento+de+Sistemas%2C+iniciante+e+no+come%C3%A7o+da+minha+carreira;Evoluindo+em+%E2%80%A2HTML+%E2%80%A2CSS+%E2%80%A2Java+Script" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=4000&pause=900&color=5B21B6&center=true&width=435&lines=Bem+vindo!;Estudando+Desenvolvimento+de+sistema;Iniciante+e+no+come%C3%A7o+da+carreira;Evoluindo+em+%E2%80%A2HTML+%E2%80%A2CSS+%E2%80%A2Java+Script" alt="Typing SVG" />
 </div>
 
 <div align="center">
