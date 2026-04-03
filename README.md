@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple" width="50%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple" width="70%"/>
 
 
 
