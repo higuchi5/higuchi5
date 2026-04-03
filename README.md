@@ -4,18 +4,46 @@
 <!--                        HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<svg width="100%" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="rounded">
+      <rect width="860" height="280" rx="10" ry="10"/>
+    </clipPath>
+    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.72"/>
+    </linearGradient>
+  </defs>
 
-<br/>
+  <!-- Background image -->
+  <image href="https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg"
+         x="0" y="0" width="860" height="280"
+         preserveAspectRatio="xMidYMid slice"
+         clip-path="url(#rounded)"/>
 
-```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█                                            █
-█     Welcome to Murilo Tadashi's GitHub     █
-█                   < / >                   █
-█                                            █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
+  <!-- Dark overlay for text readability -->
+  <rect width="860" height="280" fill="url(#overlay)" clip-path="url(#rounded)"/>
+
+  <!-- Top decorative line -->
+  <line x1="80" y1="72" x2="340" y2="72" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
+  <line x1="520" y1="72" x2="780" y2="72" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
+
+  <!-- Welcome text -->
+  <text x="430" y="108" font-family="monospace" font-size="13" fill="#a0a0b0"
+        text-anchor="middle" letter-spacing="6" opacity="0.85">WELCOME TO</text>
+
+  <!-- Main name -->
+  <text x="430" y="158" font-family="monospace" font-size="30" font-weight="bold"
+        fill="#ffffff" text-anchor="middle" letter-spacing="2">Murilo Tadashi's GitHub</text>
+
+  <!-- Code tag -->
+  <text x="430" y="198" font-family="monospace" font-size="18"
+        fill="#a0a0b0" text-anchor="middle" opacity="0.9">&lt; / &gt;</text>
+
+  <!-- Bottom decorative line -->
+  <line x1="80" y1="222" x2="340" y2="222" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
+  <line x1="520" y1="222" x2="780" y2="222" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
+</svg>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A0A0B0&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
 
@@ -69,7 +97,7 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg" width="260" style="border-radius: 8px;" alt="profile image"/>
+<img src="https://i.pinimg.com/1200x/47/ea/2c/47ea2c53c06bfd96243c2f3631453d58.jpg" width="240" style="border-radius: 8px;" alt="profile image"/>
 
 </td>
 </tr>
