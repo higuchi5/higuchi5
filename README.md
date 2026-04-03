@@ -25,9 +25,9 @@
 <!--                     SOCIAL LINKS                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=A0A0B0)](https://linkedin.com/in/murilo-higuchi)
-[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=A0A0B0)](https://github.com/murilo-higuchi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=A0A0B0)](https://murilo-higuchi.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=A0A0B0)](https://linkedin.com/in/higuchi5)
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=A0A0B0)](https://github.com/higuchi5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=A0A0B0)](https://higuchi5.dev)
 [![Email](https://img.shields.io/badge/Email-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=A0A0B0)](mailto:murilo@email.com)
 
 <br/>
@@ -126,18 +126,18 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 
 <br/><br/>
 
-<a href="https://github.com/murilo-higuchi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=higuchi&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
+<a href="https://github.com/higuchi5">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/murilo-higuchi">
+<a href="https://github.com/higuchi5">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/murilo-higuchi">
-  <img width="700" src="https://streak-stats.demolab.com?user=murilo-higuchi&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" />
+<a href="https://github.com/higuchi5">
+  <img width="700" src="https://streak-stats.demolab.com?user=higuchi5&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" />
 </a>
 
 <br/><br/>
@@ -150,7 +150,7 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 
 <br/><br/>
 
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=murilo-higuchi&bg_color=0d0d0d&color=a0a0b0&line=555566&point=a0a0b0&area=true&area_color=1a1a2e&hide_border=false&border_color=1a1a2e&custom_title=Contribution%20Graph" />
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=higuchi5&bg_color=0d0d0d&color=a0a0b0&line=555566&point=a0a0b0&area=true&area_color=1a1a2e&hide_border=false&border_color=1a1a2e&custom_title=Contribution%20Graph" />
 
 <br/><br/>
 
@@ -158,7 +158,7 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 <!--                      FOOTER                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmurilo-higuchi%2Fvisits&query=value&label=profile%20views&style=flat-square&color=0d0d0d&labelColor=1a1a2e&logo=github&logoColor=a0a0b0" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fhiguchi5%2Fvisits&query=value&label=profile%20views&style=flat-square&color=0d0d0d&labelColor=1a1a2e&logo=github&logoColor=a0a0b0" />
 
 <br/>
 
