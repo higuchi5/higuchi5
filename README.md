@@ -4,6 +4,16 @@
 
 <div align="center">
   
+  <div style="background-color:#1e1e2f; padding:15px; border-radius:10px; border:1px solid #A855F7;">
+
+<h3>💜 Sobre mim</h3>
+
+<p>
+Sou estudante de Desenvolvimento de Sistemas, iniciante na área e no começo da minha carreira.  
+Estou aprendendo HTML, CSS e JavaScript e criando projetos para evoluir minhas habilidades.
+</p>
+
+</div>
   <samp>
       <br>
       Hi there! I'm <b>Murilo tadashi</b> <br>
