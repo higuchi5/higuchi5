@@ -1,65 +1,66 @@
-<div align="center">
+<div align="center" style="background-color:#0d1117; padding:30px; border-radius:12px;">
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&secondaryColor=161b22&height=200&section=header&text=Higuchi5&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <!-- BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=higuchi5&fontSize=40&fontColor=ffffff" 
+       style="border-radius:12px; width:100%;" />
 
-  <br />
+  <!-- FOTO DE PERFIL -->
+  <br><br>
+  <img src="https://avatars.githubusercontent.com/u/583231?v=4" 
+       width="120" 
+       style="border-radius:50%; border:3px solid #30363d; box-shadow: 0 0 15px rgba(255,255,255,0.1);" />
 
-  <img src="https://github.com/Higuchi5.png" width="150px" style="border-radius: 50%; border: 3px solid #30363d; padding: 5px;" />
+  <!-- NOME -->
+  <h1 style="color:#ffffff; margin-top:15px;">higuchi5</h1>
 
-  <h1> Higuchi5 </h1>
-  
-  <p align="center">
-    <code style="color: #8b949e; background: transparent;"> 🚀 Fullstack Developer | 💻 Entusiasta de Clean Code | 📈 Construindo o futuro </code>
+  <!-- BIO -->
+  <p style="color:#8b949e; max-width:500px;">
+    Desenvolvedor em evolução 🚀 | Apaixonado por tecnologia 💻 | Sempre aprendendo 📈
   </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Disponível-success?style=flat-square&color=238636&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Foco-Arquitetura-blue?style=flat-square&color=1f6feb&labelColor=0d1117" />
-    <img src="https://img.shields.io/badge/Local-Brasil-orange?style=flat-square&color=d29922&labelColor=0d1117" />
-  </p>
+  <!-- STATUS -->
+  <div style="margin-top:10px;">
+    <span style="margin:10px; color:#c9d1d9;">🚀 Dev</span>
+    <span style="margin:10px; color:#c9d1d9;">💻 Projetos</span>
+    <span style="margin:10px; color:#c9d1d9;">📈 Evoluindo</span>
+  </div>
 
-  <br />
-  <hr style="border: 0.5px solid #30363d;" />
-  <br />
+  <br>
 
-  <h3> 📊 Atividade & Performance </h3>
-
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Higuchi5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="150px" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Higuchi5&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150px" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Higuchi5&theme=react-dark&bg_color=0d1117&hide_border=true&color=58a6ff" width="100%" />
-
-  <br />
-  <br />
-
-  <h3> 🌐 Conecte-se comigo </h3>
-  
-  <p align="center">
-    <a href="mailto:seuemail@exemplo.com">
-      <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff&border=1px&color=30363d" />
+  <!-- BOTÕES -->
+  <div>
+    <a href="https://github.com/higuchi5" target="_blank" 
+       style="text-decoration:none; padding:10px 20px; margin:5px; border-radius:8px; background-color:#21262d; color:#ffffff; display:inline-block;">
+       GitHub
     </a>
-    <a href="https://linkedin.com/in/seulinkedin">
-      <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff&border=1px&color=30363d" />
+    <a href="#" target="_blank" 
+       style="text-decoration:none; padding:10px 20px; margin:5px; border-radius:8px; background-color:#21262d; color:#ffffff; display:inline-block;">
+       Portfólio
     </a>
-    <a href="https://seuportfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=ko-fi&logoColor=ffffff&border=1px&color=30363d" />
+    <a href="#" target="_blank" 
+       style="text-decoration:none; padding:10px 20px; margin:5px; border-radius:8px; background-color:#21262d; color:#ffffff; display:inline-block;">
+       Contato
     </a>
-  </p>
+  </div>
 
-  <br />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Higuchi5&color=58a6ff&style=flat-square&label=PERFIL+VISUALIZADO" />
-  </p>
+  <br><br>
+
+  <!-- ESTATÍSTICAS -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
+
+  <br><br>
+
+  <!-- GRÁFICO -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=higuchi5&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true" 
+       width="100%" />
+
+  <br><br>
+
+  <!-- BADGES -->
+  <img src="https://img.shields.io/badge/Code-JavaScript-0d1117?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-Python-0d1117?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Frontend-HTML-0d1117?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/Style-CSS-0d1117?style=for-the-badge&logo=css3" />
 
 </div>
