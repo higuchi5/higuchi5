@@ -25,7 +25,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple" 2idt="50%"/>
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CristinyON&theme=github-dark&hide_border=true&border_radius=7" width="40%" />
 
