@@ -25,7 +25,7 @@
 <div align="center">
 
 <div align="center" style="background: linear-gradient(90deg, #000000, #a020f0); padding: 20px; border-radius: 15px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=default" width="50"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=default" width="50%"/>
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=CristinyON&theme=github-dark&hide_border=true&border_radius=7" width="40%" />
 
