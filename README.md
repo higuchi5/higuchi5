@@ -28,7 +28,6 @@
     <td align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200"/>
   </td>
-    <td>
   </tr>
 </table>
 
@@ -40,9 +39,6 @@
   <tr>
     <td align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
-  </td>
-    <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=true&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200"/>
   </td>
   </tr>
 </table>
