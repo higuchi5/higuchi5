@@ -24,7 +24,7 @@
 
 <td style="padding-left:15px;">
 
-<img src="https://imgur.com/gallery/jesus-tFEfi0j#CEz7EEO.png" width="150" style="border-radius:10px;" />
+<img src="https://imgur.com/gallery/jesus-tFEfi0j#CEz7EEO" width="150" style="border-radius:10px;" />
 
 </td>
 </tr>
