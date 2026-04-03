@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/higuchi5/higuchi5/main/banner.jpg" width="100%" style="border-radius: 15px;" />
+<img src="https://github.com/higuchi5/higuchi5/blob/main/Banner.jpg" width="100%" style="border-radius: 15px;" />
 
 # Welcome to Murilo's GitHub
 
