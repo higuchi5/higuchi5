@@ -38,7 +38,7 @@
   <table>
   <tr>
     <td align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10" width="100%"/>
   </td>
   </tr>
 </table>
