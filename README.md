@@ -127,11 +127,11 @@ Currently deepening my expertise in **software engineering**, exploring everythi
 <br/><br/>
 
 <a href="https://github.com/murilo-higuchi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=murilo-higuchi&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=higuchi&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/murilo-higuchi">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-higuchi&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
 </a>
 
 <br/><br/>
