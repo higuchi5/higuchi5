@@ -19,13 +19,14 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristinyON&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristinyON&theme=github_dark" width="32%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550" width="45%"/>
 
 </div>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&width=200" width="50%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550" width="45%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple" width="50%"/>
+
 
 
 
