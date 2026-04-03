@@ -20,6 +20,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CristinyON&theme=github_dark" width="32%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CristinyON&theme=github_dark" width="32%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=550" width="45%"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=midnight-purple&hide_border=verdadeiro&border_radius=10&locale=pt&short_numbers=falso&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=400" alt="GitHub Streak" /></a>
 
 </div>
 
