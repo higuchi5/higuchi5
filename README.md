@@ -1,72 +1,173 @@
-# 👩🏻‍💻 樋口 | Higuchi5 
+<div align="center">
 
-**`Estudando web-developer`** E **`Software-developer`**
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-Meu nome é Murilo Tadashi Higuchi, tenho 16 anos e sou de Jardim das Indústrias.
-Sou fluente em português e inglês e atualmente estudo a língua japonesa.
-Tenho grande interesse pela área de tecnologia, buscando constantemente aprimorar meus conhecimentos e desenvolver habilidades na área de desenvolvimento.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-<p align="left">
-        <a href="https://www.instagram.com/murilot.h/?sub_confirmation=1">
-        <img 
-            alt="instagram" 
-            title="instagram" 
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </a> 
-    <a href="https://github.com/Higuchi5?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Higuchi5?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Higuchi5?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Higuchi5?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<br/>
 
----
+```
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█                                            █
+█     Welcome to Murilo Tadashi's GitHub     █
+█                   < / >                   █
+█                                            █
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
 
-### 🤖 Linguagens e Tecnologias
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A0A0B0&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/><br>
+<br/>
 
-### 📊 Estatísticas
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     SOCIAL LINKS                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=A0A0B0)](https://linkedin.com/in/murilo-higuchi)
+[![GitHub](https://img.shields.io/badge/GitHub-%230A0A0A.svg?style=for-the-badge&logo=github&logoColor=A0A0B0)](https://github.com/murilo-higuchi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=for-the-badge&logo=vercel&logoColor=A0A0B0)](https://murilo-higuchi.dev)
+[![Email](https://img.shields.io/badge/Email-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=A0A0B0)](mailto:murilo@email.com)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<br/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────%20About%20Me%20──────────────────────-%230d0d0d?style=for-the-badge" />
+
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name:     Murilo Tadashi Higuchi
+role:     Software Developer
+focus:    Backend & Systems Engineering
+location: Brazil 🇧🇷
+status:   Open to new challenges
+```
+
+<br/>
+
+Hi there 👾 — I'm **Murilo Tadashi Higuchi**, a software developer passionate about building elegant, efficient, and well-structured systems. I enjoy turning complex problems into clean, scalable solutions.
+
+Currently deepening my expertise in **software engineering**, exploring everything from **backend architecture** to **algorithms and data structures**. Always looking for projects that challenge me to think differently.
+
+- 🔭 &nbsp; Working on personal projects and open source contributions
+- 📚 &nbsp; Studying software engineering fundamentals & system design
+- ⚡ &nbsp; Interested in performance, clean code, and developer experience
+- 🎯 &nbsp; Goal: Build software that actually makes a difference
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 8px;" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    TECHNOLOGIES                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/────────────────────%20Technologies%20─────────────────────-%230d0d0d?style=for-the-badge" />
+
+<br/><br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-%230d0d0d.svg?style=flat-square&logo=python&logoColor=A0A0B0)
+![JavaScript](https://img.shields.io/badge/JavaScript-%230d0d0d.svg?style=flat-square&logo=javascript&logoColor=A0A0B0)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230d0d0d.svg?style=flat-square&logo=typescript&logoColor=A0A0B0)
+![Java](https://img.shields.io/badge/Java-%230d0d0d.svg?style=flat-square&logo=openjdk&logoColor=A0A0B0)
+![C](https://img.shields.io/badge/C-%230d0d0d.svg?style=flat-square&logo=c&logoColor=A0A0B0)
+![SQL](https://img.shields.io/badge/SQL-%230d0d0d.svg?style=flat-square&logo=postgresql&logoColor=A0A0B0)
+
+<br/>
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%230d0d0d.svg?style=flat-square&logo=html5&logoColor=A0A0B0)
+![CSS3](https://img.shields.io/badge/CSS3-%230d0d0d.svg?style=flat-square&logo=css3&logoColor=A0A0B0)
+![React](https://img.shields.io/badge/React-%230d0d0d.svg?style=flat-square&logo=react&logoColor=A0A0B0)
+![Node.js](https://img.shields.io/badge/Node.js-%230d0d0d.svg?style=flat-square&logo=node.js&logoColor=A0A0B0)
+
+<br/>
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%230d0d0d.svg?style=flat-square&logo=git&logoColor=A0A0B0)
+![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=flat-square&logo=github&logoColor=A0A0B0)
+![Linux](https://img.shields.io/badge/Linux-%230d0d0d.svg?style=flat-square&logo=linux&logoColor=A0A0B0)
+![Docker](https://img.shields.io/badge/Docker-%230d0d0d.svg?style=flat-square&logo=docker&logoColor=A0A0B0)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230d0d0d.svg?style=flat-square&logo=visualstudiocode&logoColor=A0A0B0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230d0d0d.svg?style=flat-square&logo=postgresql&logoColor=A0A0B0)
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       STATS                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/──────────────────────────%20Stats%20──────────────────────────-%230d0d0d?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://github.com/murilo-higuchi">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=murilo-higuchi&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&icon_color=a0a0b0&border_color=1a1a2e&hide_border=false&rank_icon=github&count_private=true" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/murilo-higuchi">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-higuchi&layout=compact&theme=dark&bg_color=0d0d0d&title_color=a0a0b0&text_color=888899&border_color=1a1a2e&hide_border=false&langs_count=6" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/murilo-higuchi">
+  <img width="700" src="https://streak-stats.demolab.com?user=murilo-higuchi&theme=dark&background=0d0d0d&border=1a1a2e&ring=a0a0b0&fire=888899&currStreakLabel=a0a0b0&sideLabels=888899&currStreakNum=a0a0b0&sideNums=a0a0b0&dates=555566" />
+</a>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--               CONTRIBUTION GRAPH                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/────────────────────%20Activity%20──────────────────────-%230d0d0d?style=for-the-badge" />
+
+<br/><br/>
+
+<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=murilo-higuchi&bg_color=0d0d0d&color=a0a0b0&line=555566&point=a0a0b0&area=true&area_color=1a1a2e&hide_border=false&border_color=1a1a2e&custom_title=Contribution%20Graph" />
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      FOOTER                               -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmurilo-higuchi%2Fvisits&query=value&label=profile%20views&style=flat-square&color=0d0d0d&labelColor=1a1a2e&logo=github&logoColor=a0a0b0" />
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════╗
+║   "First, solve the problem. Then, write the code."  ║
+╚══════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
+
+</div>
