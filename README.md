@@ -4,46 +4,17 @@
 <!--                        HEADER                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<svg width="100%" viewBox="0 0 860 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <defs>
-    <clipPath id="rounded">
-      <rect width="860" height="280" rx="10" ry="10"/>
-    </clipPath>
-    <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#000000" stop-opacity="0.72"/>
-    </linearGradient>
-  </defs>
+<!-- ⚠️ SUBSTITUIR src pela URL raw da sua imagem após subir no GitHub -->
+<!-- Exemplo: https://raw.githubusercontent.com/higuchi5/higuchi5/main/banner.jpg -->
+<img src="COLE_AQUI_A_URL_RAW_DA_SUA_IMAGEM" width="100%" style="border-radius:10px" alt="banner"/>
 
-  <!-- Background image -->
-  <image href="https://i.pinimg.com/1200x/13/41/45/13414519583c03a8576b45d6171c11c9.jpg"
-         x="0" y="0" width="860" height="280"
-         preserveAspectRatio="xMidYMid slice"
-         clip-path="url(#rounded)"/>
+<!--
+  ENQUANTO NÃO TIVER A IMAGEM SUBIDA, USE ESTE BANNER PROVISÓRIO
+  (apague as 2 linhas acima e descomente a linha abaixo):
+-->
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=220&text=Welcome%20to%20Murilo%20Tadashi's%20GitHub&fontSize=28&fontColor=a0a0b0&fontAlign=50&fontAlignY=45&desc=%3C%20/%20%3E&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/> -->
 
-  <!-- Dark overlay for text readability -->
-  <rect width="860" height="280" fill="url(#overlay)" clip-path="url(#rounded)"/>
-
-  <!-- Top decorative line -->
-  <line x1="80" y1="72" x2="340" y2="72" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
-  <line x1="520" y1="72" x2="780" y2="72" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
-
-  <!-- Welcome text -->
-  <text x="430" y="108" font-family="monospace" font-size="13" fill="#a0a0b0"
-        text-anchor="middle" letter-spacing="6" opacity="0.85">WELCOME TO</text>
-
-  <!-- Main name -->
-  <text x="430" y="158" font-family="monospace" font-size="30" font-weight="bold"
-        fill="#ffffff" text-anchor="middle" letter-spacing="2">Murilo Tadashi's GitHub</text>
-
-  <!-- Code tag -->
-  <text x="430" y="198" font-family="monospace" font-size="18"
-        fill="#a0a0b0" text-anchor="middle" opacity="0.9">&lt; / &gt;</text>
-
-  <!-- Bottom decorative line -->
-  <line x1="80" y1="222" x2="340" y2="222" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
-  <line x1="520" y1="222" x2="780" y2="222" stroke="#a0a0b0" stroke-width="0.8" opacity="0.6"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:111111,100:0a0a0a&height=220&text=Welcome%20to%20Murilo%20Tadashi's%20GitHub&fontSize=28&fontColor=a0a0b0&fontAlign=50&fontAlignY=45&desc=%3C%20/%20%3E&descAlign=50&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=A0A0B0&center=true&vCenter=true&width=600&lines=Software+Developer;Problem+Solver;Clean+Code+Enthusiast;Always+learning+something+new..." alt="Typing SVG" />
 
