@@ -57,7 +57,7 @@
 </div>
 
 <div align="right">
-  <img src="https://i.imgur.com/2wNwona.png"
+  <img src="https://i.imgur.com/T1KHfe8.png"
     width="100"
   />
 </div>
