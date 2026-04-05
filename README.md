@@ -11,7 +11,6 @@
 <div align="center">
   <h1>Sobre mim</h1>
   <br>
-<td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
 
 <p>
 
@@ -26,16 +25,7 @@
 </p>
 
 <img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="200" border:2px solid=A855F7 border-radius:50>
-    
-</td>
 
-<td style="padding-left:15px;">
-
-/>
-
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
