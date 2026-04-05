@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<table>
+
   <tr>
     <td align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/> 
