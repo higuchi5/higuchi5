@@ -58,7 +58,7 @@
 
 <div align="right">
   <img src="https://i.imgur.com/2wNwona.png"
-    width="300"
+    width="30%"
   />
 </div>
 
