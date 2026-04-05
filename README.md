@@ -44,25 +44,6 @@
 <div align="center" style="display: inline_block"><br>
 
 <div align="center">
-  <h3>
-    🛠️  Languages ​​and Technologies
-  </h3>
-  <br>
- 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
- 
-</div>
-
-<div>
-  <img src="https://i.imgur.com/T1KHfe8.png"
-    width="100"
-  />
-</div>
-
-<div align="center">
 
 <table>
   <tr>
@@ -93,20 +74,22 @@
 <div align="center" style="display: inline_block"><br>
 
 <div align="center">
-  <b>
-      Languages ​​and Technologies
-  </b>
+  <h3>
+    🛠️  Languages ​​and Technologies
+  </h3>
   <br>
+ 
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+ 
+</div>
 
-<br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-
+<div>
+  <img src="https://i.imgur.com/T1KHfe8.png"
+    width="100"
+  />
 </div>
 
 <br>
