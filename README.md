@@ -43,6 +43,43 @@
 </table>
 
 <div align="center">
+ 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br/><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+      <br/><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br/><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br/><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br/><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+ 
+</div>
+
+<div align="center">
 
 <table>
   <tr>
@@ -102,7 +139,7 @@
   <br>
   <br>
 
-[![Static Badge](https://img.shields.io/badge/GMAIL-%232E6F40?style=flat&logo=gmail&logoColor=white)](mailto:cristinybarbo@gmail.com)
+[![Static Badge]([https://img.shields.io](https://img.shields.io/badge)/badge/GMAIL-%232E6F40?style=flat&logo=gmail&logoColor=white)](mailto:cristinybarbo@gmail.com)
 [![Static Badge](https://img.shields.io/badge/INSTAGRAM-%232E6F40?style=flat&logo=INSTAGRAM&logoColor=white)](https://www.instagram.com/cristiny_vi/)
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-%232E6F40?style=flat&logo=LINKEDIN&logoColor=white)](www.linkedin.com/in/evelyn-cristiny-222574314)
 
