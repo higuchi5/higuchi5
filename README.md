@@ -115,6 +115,6 @@
   <br>
 
 [![Static Badge]([https://img.shields.iohttps://img.shields.io/badge/badge/GMAIL-%232E6F40?style=flat&logo=gmail&logoColor=white)](mailto:cristinybarbo@gmail.com)
-[![Static Badge](https://img.shields.io/badge/LINKEDIN-%232E6F40?style=flat&logo=LINKEDIN&logoColor=white)](www.linkedin.com/in/evelyn-cristiny-222574314)
+[![Static Badge](https://img.shields.io/badge/INSTAGRAM-000000?style=flat&logo=instagram)](link=https%3A%2F%2Fwww.instagram.com%2Fmurilot.h%2F)
 
 </div>
