@@ -11,7 +11,8 @@
 <div align="center">
   <h1>Sobre mim</h1>
   <br>
-
+  
+<div align="left">
 <p>
 
   <h1>Murilo Tadashi Higuchi</h1>
@@ -21,8 +22,8 @@
 - 📈 Sempre aprendendo e evoluindo <br>
 - 🎯 Em busca da primeira oportunidade na área tech
 
-
 </p>
+</div>
 
 <div align="right">
 <img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="200" border:2px solid=A855F7 border-radius:100>
