@@ -21,7 +21,7 @@
       </ul>
       <br/>
       <p>
-        <img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" />
+        <img src="https://img.shields.io/badge/Status-Disponível%20para%20estágio-7C5CFC?style=for-the-badge&logoColor=white"/>
       </p>
       <p>
         <img src="https://img.shields.io/badge/Localização-São%20José%20dos%20Campos%20SP-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -30,7 +30,7 @@
     <td width="45%" align="center" valign="middle">
       <!-- Troque a URL abaixo pela URL da sua imagem real -->
       <img
-        src="https://i.imgur.com/your-image-here.jpg"
+        src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"
         alt="Murilo Tadashi Higuchi"
         width="220"
         style="border-radius: 12px;"
