@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>Murilo Tadashi Higuchi</h3>
+      <h2 align="center">Murilo Tadashi Higuchi</h2>
       <br/>
       <ul>
         <li>🎓 Estudante de <strong>Desenvolvimento de Sistemas</strong></li>
