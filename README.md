@@ -25,7 +25,7 @@
 </p>
 
 <div align="right">
-<img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="200" border:2px solid=A855F7 border-radius:50>
+<img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="200" border:2px solid=A855F7 border-radius:100>
 </div>
 
 </div>
