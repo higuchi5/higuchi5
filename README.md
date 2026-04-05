@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:1a0033,100:8a2be2&text=樋口正%20|%20Tadashi%20higuchi&fontColor=d1d1d1&reversal=true&fontSize=50&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:000000,50:1a0033,100:8a2be2&text=樋口正%20|%20Tadashi%20higuchi&fontColor=d1d1d1&reversal=true&fontSize=50&animation=fadeIn">
 </div>
 
 <div align="center">
@@ -11,7 +11,6 @@
 <div align="center">
   <h1>Sobre mim</h1>
   <br>
-  <table>
 <td style="border:1px solid #ccc; padding:15px; border-radius:10px;">
 
 <p>
