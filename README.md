@@ -37,15 +37,13 @@
       />
       <br/><br/>
       <!-- Visitor counter -->
-      <img src="https://komarev.com/ghpvc/?username=MuriloTadashi&color=7c5cfc&style=flat-square&label=Visitas+no+perfil" />
-    </td>
   </tr>
 </table>
 <br></br>
 
 <div align="center" style="display: inline_block"><br>
 
-<div align="center">
+<div align="left">
   <h3>
     🛠️  Languages ​​and Technologies
   </h3>
@@ -56,6 +54,10 @@
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
  
+</div>
+
+<div align="right">
+  <img src="https://i.imgur.com/2wNwona.png"/>
 </div>
 
 <div align="center">
