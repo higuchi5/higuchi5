@@ -77,7 +77,7 @@
 
 <div align="center" style="display: inline_block"><br>
 
-<div align="center">
+<div align="Left">
   <h3>
     🛠️  Languages ​​and Technologies
   </h3>
