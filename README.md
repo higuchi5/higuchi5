@@ -43,7 +43,7 @@
 
 <div align="center" style="display: inline_block"><br>
 
-<div align="left">
+<div align="center">
   <h3>
     🛠️  Languages ​​and Technologies
   </h3>
@@ -56,7 +56,7 @@
  
 </div>
 
-<div align="right">
+<div align="center">
   <img src="https://i.imgur.com/2wNwona.png"
     width="100"
   />
