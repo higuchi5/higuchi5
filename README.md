@@ -21,16 +21,16 @@
 - 🚀 Criando meus primeiros projetos <br> 
 - 📈 Sempre aprendendo e evoluindo <br>
 - 🎯 Em busca da primeira oportunidade na área tech
-<img 
-  src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" 
+
+
+</p>
+
+<img src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="200" border:2px solid=A855F7 border-radius:50>
   width="200"
   style="
     border:2px solid #A855F7;
     border-radius:50%;
-  "
-
-</p>
-
+    
 </td>
 
 <td style="padding-left:15px;">
