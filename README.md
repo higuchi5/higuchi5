@@ -13,9 +13,11 @@
   <br>
   
 <div align="left">
+
+<h1>Murilo Tadashi Higuchi</h1>
+  
 <p>
 
-  <h1>Murilo Tadashi Higuchi</h1>
 - 🎓 Estudante de Desenvolvimento de Sistemas <br>
 - 💻 Iniciante em programação  <br>
 - 🚀 Criando meus primeiros projetos <br> 
