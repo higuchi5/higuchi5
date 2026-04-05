@@ -9,7 +9,7 @@
   
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="55%" valign="top" style="border-radius: 24px;">
       <h2 align="center">Murilo Tadashi Higuchi</h2>
       <br/>
       <ul>
