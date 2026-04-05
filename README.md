@@ -30,7 +30,7 @@
     <td width="45%" align="center" valign="middle">
       <!-- Troque a URL abaixo pela URL da sua imagem real -->
       <img
-        src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"
+        src="https://i.imgur.com/wK3iXS0.png"
         alt="Murilo Tadashi Higuchi"
         width="300"
         style="border-radius: 24px;"
