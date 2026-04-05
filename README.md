@@ -33,7 +33,7 @@
         src="https://i.imgur.com/CEz7EEO_d.jpeg?maxwidth=520&shape=thumb&fidelity=high"
         alt="Murilo Tadashi Higuchi"
         width="220"
-        style="border-radius: 12px;"
+        style="border-radius: 24px;"
       />
       <br/><br/>
       <!-- Visitor counter -->
