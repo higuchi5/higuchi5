@@ -45,9 +45,9 @@
 <div align="center" style="display: inline_block"><br>
 
 <div align="center">
-  <b>
-      Languages ​​and Technologies
-  </b>
+  <h3>
+    🛠️  Languages ​​and Technologies
+  </h3>
   <br>
  
 <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
