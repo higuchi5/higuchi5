@@ -41,6 +41,8 @@
 </table>
 <br></br>
 
+
+<h2>📊 Estatísticas </h2>
 <div align="center" style="display: inline_block"><br>
 
 <div align="center">
