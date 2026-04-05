@@ -56,7 +56,7 @@
  
 </div>
 
-<div align="right">
+<div>
   <img src="https://i.imgur.com/T1KHfe8.png"
     width="100"
   />
