@@ -64,7 +64,7 @@
   <table>
   <tr>
     <td align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10" width="200"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=higuchi5&theme=midnight_purple&border_radius=10" width="100%"/>
   </td>
     </td>
     <td align="center">
