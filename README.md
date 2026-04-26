@@ -40,7 +40,12 @@
   </tr>
 </table>
 <br></br>
-  
+
+  <div align="left">
+  <samp><b>🛠️ Tecnologias:</b></samp>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</div>
 <div align="center">
   <img align="right" alt="anime" height="180" src="https://i.imgur.com/T1KHfe8.png">
   <samp>
