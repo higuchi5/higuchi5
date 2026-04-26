@@ -93,6 +93,14 @@
 
 </p>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&theme=tokyonight&leyaout=compact&custom_title=Tecmologias&langs_count=9" 
+  />
+
+</p>
 
 <img 
       align="left" 
@@ -100,5 +108,5 @@
       height="200" 
       src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=tokyonight&hide_border=false&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200" 
   />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=tokyonight&hide_border=false&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200"/>
+
      
