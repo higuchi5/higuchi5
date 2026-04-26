@@ -99,8 +99,7 @@
   />
 </div>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:1a0033,100:8a2be2&reversal=false&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:1a0033,100:8a2be2&reversal=false&animation=fadeIn&section=footer">
 
 
      
