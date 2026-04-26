@@ -44,6 +44,25 @@
 <div>
   <img align="right" alt="anime" height="160" src="https://i.imgur.com/T1KHfe8.png">
 <div align="left">
+  <div align="left">
+
+  <h3>🛠️ Tecnologias:</h3>
+
+  <img height="48" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+  <br><br>
+
+  <h3>📫 Fale comigo:</h3>
+
+  <a href="https://www.instagram.com/murilot.h/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  </div>
   ### 🛠️ Tecnologias:
 
 <img height="48" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
