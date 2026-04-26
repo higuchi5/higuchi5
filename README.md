@@ -42,11 +42,9 @@
 <br></br>
 
 <div align="left">
-
-## 🛠️ Tecnologias
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
+  <samp><b>🛠️ Tecnologias:</b></samp>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </div>
 <div align="right">
   <img align="right" alt="anime" height="180" src="https://i.imgur.com/T1KHfe8.png">
