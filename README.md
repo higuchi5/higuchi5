@@ -92,8 +92,6 @@
       src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-</p>
-
 <img 
       align="left" 
       alt="GitHub Stats" 
