@@ -55,7 +55,7 @@
   </a>
 
 
- <div align="center"> 
+ <div align="right"> 
   <h3>🛠️ Tecnologias:</h3>
 
   <img height="30" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
