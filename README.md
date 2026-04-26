@@ -46,13 +46,8 @@
 <div align="center">
   <h3>📫 Fale comigo:</h3>
 
-  <a href="https://www.instagram.com/murilot.h/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrkWNFNFccqfbvkDJMmrgfXnRvMlwhDKvwCDkRdnXDKkmFVqXmHJZnFxgzdvlRBCcSqxwg" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+ <a href="https://www.instagram.com/murilot.h/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:contatomurilothiguchi01@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   <h3>🛠️ Tecnologias:</h3>
 
