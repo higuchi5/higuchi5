@@ -82,7 +82,7 @@
 <br>
 
 <h2>📊 Estatísticas </h2>
-<div align="center"><br>
+<div><br>
 
 <img 
       align="left" 
@@ -95,11 +95,11 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="400" 
+      width="350" 
       style="padding-right: 10px"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=higuchi5&theme=tokyonight&layout=compact&custom_title=Tecmologias&langs_count=9" 
   />
-
+</div>
 
 
 
