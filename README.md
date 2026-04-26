@@ -53,13 +53,6 @@
  <a href ="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
-<div align="right>
-  <img src="https://i.imgur.com/T1KHfe8.png"
-    width="100"
-  />
-</div>
-</div>
-
 <div align="center" style="display: inline_block"><br>
 
 <div align="Left">
