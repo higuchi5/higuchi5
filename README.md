@@ -42,7 +42,7 @@
 <br></br>
 
 <div>
-  <img align="right" alt="anime" height="160" src="https://i.imgur.com/T1KHfe8.png">
+  <img align="right" alt="anime" height="180" src="https://i.imgur.com/T1KHfe8.png">
 <div align="center">
   <h3>📫 Fale comigo:</h3>
 
