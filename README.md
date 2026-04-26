@@ -41,27 +41,6 @@
 </table>
 <br></br>
 
-
-<h2>📊 Estatísticas </h2>
-<div align="center" style="display: inline_block"><br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/> 
-      </td>
-    <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
-    <td align="center">
-  <img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=higuchi5&theme=midnight_purple&utcOffset=8"/>
-      </td>
-  </tr>
-</table>
-
-</div>
-
 <div align="center">
 
   <table>
@@ -114,3 +93,24 @@
 </div>
 
 <br>
+
+<h2>📊 Estatísticas </h2>
+<div align="center" style="display: inline_block"><br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=higuchi5&theme=midnight_purple"/> 
+      </td>
+    <td>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=higuchi5&theme=midnight_purple"/>
+    <td align="center">
+  <img src="http://profile-summary-cards.vercel.app/api/cards/productive-time?username=higuchi5&theme=midnight_purple&utcOffset=8"/>
+      </td>
+  </tr>
+</table>
+
+</div>
+
