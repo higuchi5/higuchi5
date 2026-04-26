@@ -84,6 +84,21 @@
 <h2>📊 Estatísticas </h2>
 <div align="center" style="display: inline_block"><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+</p>
+
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=tokyonight&hide_border=false&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200" 
+  />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=higuchi5&theme=tokyonight&hide_border=false&border_radius=6.5&locale=pt&date_format=j%2Fn%5B%2FY%5D&card_width=400&card_height=200"/>
      
