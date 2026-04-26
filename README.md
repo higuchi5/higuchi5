@@ -40,14 +40,10 @@
   </tr>
 </table>
 <br></br>
-
-<div align="center" style="display: inline_block">
   
-<div align="left">
+<div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>📫 Fale comigo:</b>
   </samp>
   <br>
   <br>
