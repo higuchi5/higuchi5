@@ -86,7 +86,7 @@
   <br>
   <br>
 
-[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmurilot.h%2F)
+![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fmurilot.h%2F)
 
 </div>
 
