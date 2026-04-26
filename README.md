@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:murilothiguchi01@gmail.com?subject=Contato%20pelo%20GitHub" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
