@@ -84,6 +84,7 @@
 <h2>📊 Estatísticas </h2>
 <div align="center" style="display: inline_block"><br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higuchi5&show_icons=true)
 <div align="center">
 
   <table>
