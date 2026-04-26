@@ -54,7 +54,6 @@
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
- <br><br>
 
  <div align="center"> 
   <h3>🛠️ Tecnologias:</h3>
