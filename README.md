@@ -57,15 +57,7 @@
  <a href="https://www.instagram.com/murilot.h/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  <a href ="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
-<div align="center" style="display: inline_block"><br>
 
- 
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
- 
 </div>
 
 <br>
