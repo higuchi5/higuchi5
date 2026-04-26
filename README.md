@@ -62,22 +62,6 @@
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  </div>
-  ### 🛠️ Tecnologias:
-
-<img height="48" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
-<br><br>
-<div align="right">
-  <samp>
-    <b>📫 Fale comigo:</b>
-  </samp>
-  <br>
-  <br>
-
- <a href="https://www.instagram.com/murilot.h/" target="_blank"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
- <a href ="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div>
 
 <br>
