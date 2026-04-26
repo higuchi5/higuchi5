@@ -55,11 +55,13 @@
   </a>
 
  <br><br>
- 
+
+ <div align="center"> 
   <h3>🛠️ Tecnologias:</h3>
 
-  <img height="48" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-
+  <img height="30" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+ </div>
+ 
 </div>
 
 <br>
