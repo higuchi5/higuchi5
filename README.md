@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/Status-Disponível%20para%20estágio-7C5CFC?style=for-the-badge&logoColor=white"/>
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Localização-São%20José%20dos%20Campos%20SP-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+        <img height="45" src="https://img.shields.io/badge/Localização-São%20José%20dos%20Campos%20SP-38BDF8?style=for-the-badge&logo=googlemaps&logoColor=white" />
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
