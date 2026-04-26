@@ -82,7 +82,7 @@
 <br>
 
 <h2>📊 Estatísticas </h2>
-<div>
+<div><br>
 
 <img 
       align="left" 
