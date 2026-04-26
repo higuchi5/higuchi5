@@ -42,12 +42,13 @@
 <br></br>
 
 <div>
-  <img align="right" alt="anime" height="180" src="https://i.imgur.com/T1KHfe8.png">
+  <img align="right" alt="anime" height="160" src="https://i.imgur.com/T1KHfe8.png">
 <div align="left">
-  <samp><b>🛠️ Tecnologias:</b></samp>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</div>
+  ### 🛠️ Tecnologias:
+
+<img height="48" src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+
+<br><br>
 <div align="right">
   <samp>
     <b>📫 Fale comigo:</b>
